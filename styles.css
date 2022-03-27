@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(170, 29, 29);
+    ;
+}
+
+h3 {
+text-align: center;
+font-size: x-large;
+padding: 10px 20px ;
+}
+
+#intro {
+    text-align: center;
+}
+
+#start {
+    background-color: rgb(25, 122, 155);
+}
+
+#options {
+    text-align: center;
+}
